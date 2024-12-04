@@ -1,6 +1,8 @@
 package com.jsp.hibernate.emplyeedb.entity;
 
 @Entity
+
+
 public class Employee {
 	
 	@Id
